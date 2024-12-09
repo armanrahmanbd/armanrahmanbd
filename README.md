@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md Arman Rahman</h1>
 <h3 align="center">A Passionate Full-Stack Developer and AI Enthusiast from Bangladesh</h3>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding-left: 200px; padding-right: 200px;">
+<div style="display: flex; justify-content: space-between; ">
   <!-- Twitter Follow Button -->
   <a href="https://twitter.com/armanrahmanbd" target="_blank">
     <img src="https://img.shields.io/twitter/follow/armanrahmanbd?logo=twitter&style=for-the-badge" alt="Twitter Follow Badge" />
