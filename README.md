@@ -45,7 +45,7 @@
 
 <div style="display: flex; justify-content: space-between; ">
   
-  <img align="left" width="700px" src="https://github-readme-stats.vercel.app/api?username=armanrahmanbd&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img align="left" width="500px" src="https://github-readme-stats.vercel.app/api?username=armanrahmanbd&show_icons=true&theme=radical" alt="GitHub Stats" />
   
   <img align="right" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanrahmanbd&layout=compact&theme=radical" alt="Most Used Languages" />
   
