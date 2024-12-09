@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/armanrahmanbd" target="blank"><img src="https://img.shields.io/twitter/follow/armanrahmanbd?logo=twitter&style=for-the-badge" alt="armanrahmanbd" /></a> </p>
   As an ambitious and scrupulous individual with strong logical and technical skill base, I therefore strive for a focused approach in all my academic and practical            undertakings. Look forward to getting the opportunity to use this knowledge on real challenges in the field of technology and contribute meaningfully towards the             developments.
 
-  <img align="right" alt="code" width="200px" height="313" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fcode&psig=AOvVaw2XseXqr2eok1oNuQAePVad&ust=1733836523148000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDZptTimooDFQAAAAAdAAAAABAh">
+  <img align="right" alt="code" width="200px" height="313" src="![image](https://github.com/user-attachments/assets/7d82a28d-5c56-4a06-84e4-b7a76290534b)">
   
 - 🔭 I’m currently working on building innovative AI tools and dynamic web applications.
 
