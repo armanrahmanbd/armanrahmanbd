@@ -14,7 +14,7 @@
 </div>
 
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin: 0 300;">
+<div >
   <a href="https://twitter.com/armanrahmanbd" target="_blank">
     <img src="https://img.shields.io/twitter/follow/armanrahmanbd?logo=twitter&style=for-the-badge" alt="Twitter Follow Badge" />
   </a>
