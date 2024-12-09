@@ -53,6 +53,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=armanrahmanbd&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanrahmanbd&layout=compact&theme=radical" alt="Most Used Languages" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=armanrahmanbd&theme=react-dark" alt="GitHub Activity" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=armanrahmanbd.armanrahmanbd" alt="visitor badge" />
+
 
 
 </div>
