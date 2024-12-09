@@ -5,7 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/armanrahmanbd" target="blank"><img src="https://img.shields.io/twitter/follow/armanrahmanbd?logo=twitter&style=for-the-badge" alt="armanrahmanbd" /></a> </p>
   As an ambitious and scrupulous individual with strong logical and technical skill base, I therefore strive for a focused approach in all my academic and practical            undertakings. Look forward to getting the opportunity to use this knowledge on real challenges in the field of technology and contribute meaningfully towards the             developments.
-  
+- 🔭 I’m currently working on building innovative AI tools and dynamic web applications.
+
+- 🌱 I’m currently learning React.js, Next.js, and advanced Python concepts for AI development.
+
+-  👯 I’m looking to collaborate on impactful open-source projects and AI-based applications.
+ 
+- 🤝 I’m looking for help with real-world AI implementation and problem-solving.
+- 💬 Ask me about web development, Python projects, AI models, or even cricket!
+
 - 📄 Know about my experiences [My-CV](cv-arman.tiiny.site)
 
 - 🌐 Connect with Me [armanrahmanbd7@gmail.com](armanrahmanbd7@gmail.com)
