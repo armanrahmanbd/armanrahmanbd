@@ -49,4 +49,8 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armanrahmanbd&show_icons=true&locale=en" alt="armanrahmanbd" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armanrahmanbd&" alt="armanrahmanbd" /></p>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=armanrahmanbd&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanrahmanbd&layout=compact&theme=radical" alt="Most Used Languages" />
+
 </div>
