@@ -45,9 +45,9 @@
 
 <div style="display: flex; justify-content: space-between; ">
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=armanrahmanbd&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img align="left" width="65%" src="https://github-readme-stats.vercel.app/api?username=armanrahmanbd&show_icons=true&theme=radical" alt="GitHub Stats" />
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanrahmanbd&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanrahmanbd&layout=compact&theme=radical" alt="Most Used Languages" />
   
   <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanrahmanbd&theme=solarized_dark" alt="GitHub       Profile Summary" />
 
