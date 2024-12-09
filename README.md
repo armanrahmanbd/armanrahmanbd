@@ -3,6 +3,14 @@
 <h1 align="center">Hi 👋, I'm Md Arman Rahman</h1>
 <h3 align="center">A Passionate Full-Stack Developer and AI Enthusiast from Bangladesh</h3>
 
+<p style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://twitter.com/armanrahmanbd" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/armanrahmanbd?logo=twitter&style=for-the-badge" alt="Twitter Follow Badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=armanrahmanbd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Badge" />
+</p>
+
+
 <div style="display: flex; align-items: center; ;"><p align="left" display="inline"> <a href="https://twitter.com/armanrahmanbd" target="blank"><img src="https://img.shields.io/twitter/follow/armanrahmanbd?logo=twitter&style=for-the-badge" alt="armanrahmanbd" /></a> </p>
 
 <p align="right" display="block"> <img src="https://komarev.com/ghpvc/?username=armanrahmanbd&label=Profile%20views&color=0e75b6&style=flat" alt="armanrahmanbd" /> </p></div>
