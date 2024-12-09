@@ -1,3 +1,5 @@
+<img align="center" alt="banner" width="400px" src="">
+
 <h1 align="center">Hi 👋, I'm Md Arman Rahman</h1>
 <h3 align="center">A Passionate Full-Stack Developer and AI Enthusiast from Bangladesh</h3>
 
