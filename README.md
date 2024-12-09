@@ -53,7 +53,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=armanrahmanbd&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanrahmanbd&layout=compact&theme=radical" alt="Most Used Languages" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=armanrahmanbd&theme=react-dark" alt="GitHub Activity" />
-  <img align="center" src="https://github-readme-commit-graph.vercel.app/api?username=armanrahmanbd&theme=github_dark" alt="GitHub Commit Graph" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanrahmanbd&theme=solarized_dark" alt="GitHub Profile Summary" />
+
 
 
 
