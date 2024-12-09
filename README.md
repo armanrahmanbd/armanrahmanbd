@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md Arman Rahman</h1>
 <h3 align="center">A Passionate Full-Stack Developer and AI Enthusiast from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=armanrahmanbd&label=Profile%20views&color=0e75b6&style=flat" alt="armanrahmanbd" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=armanrahmanbd&label=Profile%20views&color=0e75b6&style=flat" alt="armanrahmanbd" /> </p>
 
 <p align="left"> <a href="https://twitter.com/armanrahmanbd" target="blank"><img src="https://img.shields.io/twitter/follow/armanrahmanbd?logo=twitter&style=for-the-badge" alt="armanrahmanbd" /></a> </p>
   As an ambitious and scrupulous individual with strong logical and technical skill base, I therefore strive for a focused approach in all my academic and practical            undertakings. Look forward to getting the opportunity to use this knowledge on real challenges in the field of technology and contribute meaningfully towards the             developments.
