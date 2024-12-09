@@ -10,7 +10,7 @@
   </a>
 
   <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=armanrahmanbd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Badge" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=armanrahmanbd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Badge" />
 </div>
 
 
