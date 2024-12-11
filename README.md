@@ -28,7 +28,7 @@
 
 - 📄 Know about my experiences <a href="https://cv-arman.tiiny.site/" target="_blank">My-CV</a> <a href="https://github.com/armanrahmanbd/armanrahmanbd/blob/main/Europass%20CV%20of%20Arman.pdf" download>
     <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
-        Download My CV
+        ~[[Download Here]]~
     </button>
 </a>
 
