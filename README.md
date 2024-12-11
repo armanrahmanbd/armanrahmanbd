@@ -26,7 +26,7 @@
 - 🤝 I’m looking for help with real-world AI implementation and problem-solving.
 - 💬 Ask me about web development, Python projects, AI models, or even cricket!
 
-- 📄 Know about my experiences [My-CV](https://cv-arman.tiiny.site/)
+- 📄 Know about my experiences <a target="_blank">[My-CV](https://cv-arman.tiiny.site/)</a>
 
 - 🌐 Connect with Me [armanrahmanbd7@gmail.com](mailto:armanrahmanbd7@gmail.com)
 
